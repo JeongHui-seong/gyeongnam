@@ -1,3 +1,7 @@
 경상남도총인구수(2025).csv (https://kosis.kr/statHtml/statHtml.do?sso=ok&returnurl=https%3A%2F%2Fkosis.kr%3A443%2FstatHtml%2FstatHtml.do%3FtblId%3DDT_1B040A3%26orgId%3D101%26checkFlag%3DN%26)
 
 shp (https://bigdata.gyeongnam.go.kr/board/view.gn?boardId=BBS_0000002&menuCd=DOM_000000110007000000&paging=ok&startPage=1&categoryCode1=CENTER&dataSid=3590)
+
+부산인허가문화관광시설.csv (https://data.busan.go.kr/bdip/opendata/detail.do?publicdatapk=OA_TT00005#/n)
+
+경상남도인허가문화관광시설.csv(https://bigdata.gyeongnam.go.kr/index.gn?menuCd=DOM_000000114002001000&publicdatapk=15122488&contentId=)
