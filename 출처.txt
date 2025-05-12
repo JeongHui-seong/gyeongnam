@@ -5,3 +5,14 @@ shp (https://bigdata.gyeongnam.go.kr/board/view.gn?boardId=BBS_0000002&menuCd=DO
 부산인허가문화관광시설.csv (https://data.busan.go.kr/bdip/opendata/detail.do?publicdatapk=OA_TT00005#/n)
 
 경상남도인허가문화관광시설.csv(https://bigdata.gyeongnam.go.kr/index.gn?menuCd=DOM_000000114002001000&publicdatapk=15122488&contentId=)
+
+인구감소지역지정지도.png (https://www.mois.go.kr/frt/sub/a06/b06/populationDecline/screen.do)
+
+경남관람체험검색결과.png
+경남키즈카페검색결과.png
+(https://map.naver.com)
+
+202310202503방문자수.csv, 202310202503방문자거주지.csv,
+202310202503방문자성연령분포.csv(https://datalab.visitkorea.or.kr/datalab/portal/loc/getAreaDataForm.do#)
+
+남부내륙철도(https://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?id=95089833)
