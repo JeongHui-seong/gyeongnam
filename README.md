@@ -7,4 +7,4 @@
 
 ### 부산과 경상남도 문화관광시설 비교 분석
 ### 시군별 문화관광시설수 분포 분석 후 지도에 표기
-<img src = "./img/culturalflex.png>
+<img src = "./img/culturalflex.png">
