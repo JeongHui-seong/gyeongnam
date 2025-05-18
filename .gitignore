@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+shp/
+
+csv/
+
+# 파일이 너무 큼
+경상남도방문자분석.ipynb

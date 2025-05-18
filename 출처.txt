@@ -16,3 +16,7 @@ shp (https://bigdata.gyeongnam.go.kr/board/view.gn?boardId=BBS_0000002&menuCd=DO
 202310202503방문자성연령분포.csv(https://datalab.visitkorea.or.kr/datalab/portal/loc/getAreaDataForm.do#)
 
 남부내륙철도(https://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?id=95089833)
+
+N3A_G00100000.shp (https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?searchKeyword=%EA%B2%BD%EA%B3%84&searchSvcCde=&searchOrganization=&searchBrmCode=&searchTagList=&searchFrm=&pageIndex=1&gidmCd=&gidsCd=&sortType=00&svcCde=MK&dsId=30253&listPageIndex=3)
+
+경상남도 shp파일 (https://bigdata.gyeongnam.go.kr/board/view.gn?boardId=BBS_0000002&menuCd=DOM_000000110007000000&paging=ok&startPage=1&categoryCode1=CENTER&dataSid=3590)
